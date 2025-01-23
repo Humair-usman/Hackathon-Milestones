@@ -3,22 +3,22 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 20px;
     padding: 0;
-    background-color: #f4f7fb; /* Light background for a modern touch */
+    background-color: #f4f7fb; 
 }
 
 /* Form Styles */
 form {
     margin: auto;
-    background-color: #e4f2ff; /* Slightly lighter background */
-    border-radius: 10px; /* More rounded corners */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Lighter shadow */
+    background-color: #e4f2ff; 
+    border-radius: 10px; 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); 
     padding: 25px;
     max-width: 600px;
-    transition: transform 0.3s ease; /* Smooth hover effect */
+    transition: transform 0.3s ease; 
 }
 
 form:hover {
-    transform: translateY(-5px); /* Hover effect */
+    transform: translateY(-5px); 
 }
 
 /* Heading */
@@ -30,11 +30,11 @@ h1 {
 
 /* Fieldset Styles */
 fieldset {
-    border: 2px solid #66aaff; /* Soft blue border */
+    border: 2px solid #66aaff; 
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f3faff; /* Lighter background for better contrast */
+    background-color: #f3faff; 
 }
 
 /* Legend Styles */
@@ -60,12 +60,12 @@ textarea {
     border-radius: 6px;
     box-sizing: border-box;
     background-color: #fff;
-    transition: border-color 0.3s ease; /* Smooth border change on focus */
+    transition: border-color 0.3s ease; 
 }
 
 input:focus,
 textarea:focus {
-    border-color: #3399ff; /* Focus effect for input fields */
+    border-color: #3399ff; 
     outline: none;
 }
 
@@ -84,12 +84,12 @@ button {
 }
 
 button:hover {
-    background-color: #3399ff; /* Darker blue for hover */
-    transform: translateY(-2px); /* Hover lift effect */
+    background-color: #3399ff; 
+    transform: translateY(-2px); 
 }
 
 button:active {
-    transform: translateY(0); /* Return to normal position */
+    transform: translateY(0); 
 }
 
 /* Resume Display Styles */
@@ -106,11 +106,9 @@ button:active {
 }
 
 #resume-display:focus {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Highlight on focus */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
 }
 
 #resume-display h2 {
     color: #333;
-}
-
-
+};

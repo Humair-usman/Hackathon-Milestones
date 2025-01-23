@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #eef2f7; /* Light Gray Background */
+    background-color: #eef2f7; 
     margin: 0;
     padding: 150px;
 }
@@ -16,12 +16,12 @@ body {
 
 /* Left Section Styling */
 .left-section {
-    background-color: #00796b; /* Teal Background */
+    background-color: #00796b; 
     color: white;
     padding: 20px;
     width: 35%;
     text-align: center;
-    border-right: 5px solid #004d40; /* Darker Teal Border */
+    border-right: 5px solid #004d40; 
 }
 
 .profile-picture {
@@ -29,7 +29,7 @@ body {
     height: 150px;
     margin-top: 10%;
     border-radius: 50%;
-    border: 5px solid #004d40; /* Darker Teal Border */
+    border: 5px solid #004d40; 
     margin-bottom: 20px;
 }
 
@@ -38,16 +38,16 @@ h1 {
     margin: 10px 0;
     margin-bottom: 30px;
     text-align: center;
-    color: #ffffff; /* White Text */
+    color: #ffffff; 
 }
 
 h3 {
     font-size: 18px;
     padding: 2%;
     margin: 20px 0 10px;
-    color: #ffffff; /* White Text */
+    color: #ffffff; 
     border-radius: 10px;
-    background-color: #004d40; /* Darker Teal Background */
+    background-color: #004d40; 
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     margin-top: 5%;
     margin-bottom: 5%;
@@ -61,20 +61,20 @@ ul {
 
 ul li {
     margin: 5px 0;
-    color: #333; /* Dark Gray Text */
+    color: #333; 
 }
 
 /* Right Section Styling */
 .right-section {
     padding: 20px;
     width: 65%;
-    background-color: #f9f9f9; /* Light Gray Background */
+    background-color: #f9f9f9; 
 }
 
 button {
     font-family: Arial, sans-serif;
     border-radius: 10px;
-    background-color: #00796b; /* Teal Background */
+    background-color: #00796b; 
     color: white;
     border: none;
     padding: 10px 20px;
@@ -85,5 +85,5 @@ button {
 }
 
 button:hover {
-    background-color: #004d40; /* Darker Teal on Hover */
+    background-color: #004d40; 
 }
